@@ -1,5 +1,8 @@
 _repo: The-Bible-King-James-Version-Complete-Contents_7999
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7999#The-Bible-King-James-Version-Complete-Contents
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2004-11-12'
 gutenberg_type: Text
